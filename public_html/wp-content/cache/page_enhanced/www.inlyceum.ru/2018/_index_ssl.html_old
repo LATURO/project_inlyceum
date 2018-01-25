@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="ru-RU" >
+<head><link rel="stylesheet" type="text/css" href="https://www.inlyceum.ru/wp-content/cache/minify/f55e0.css" media="all" />
+
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" href="http://www.inlyceum.ru/wp-content/uploads/2016/12/newlogoweb-1-e1481991550886.png" /> 
+		<link rel="pingback" href="https://www.inlyceum.ru/xmlrpc.php">
+
+	<title>2018 &#8212; InLyceum</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="InLyceum &raquo; Лента" href="https://www.inlyceum.ru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="InLyceum &raquo; Лента комментариев" href="https://www.inlyceum.ru/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.inlyceum.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+
+
+
+
+
+
+
+
+<link rel='stylesheet' id='appointment-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800%7Citalic%7CCourgette&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+
+<link rel='stylesheet' id='bootstrap-style-css'  href='https://www.inlyceum.ru/wp-content/themes/appointment/css/bootstrap.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-menu-css'  href='https://www.inlyceum.ru/wp-content/themes/appointment/css/theme-menu.css?ver=4.9.2' type='text/css' media='all' />
+
+<link rel='stylesheet' id='element-style-css'  href='https://www.inlyceum.ru/wp-content/themes/appointment/css/element.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='media-responsive-css'  href='https://www.inlyceum.ru/wp-content/themes/appointment/css/media-responsive.css?ver=4.9.2' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.inlyceum.ru/wp-content/cache/minify/702e7.js"></script>
+
+
+
+
+
+
+<link rel='https://api.w.org/' href='https://www.inlyceum.ru/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.inlyceum.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.inlyceum.ru/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.2" />
+<meta name="generator" content="Custom Login v3.2.8" />
+<link rel="icon" href="https://www.inlyceum.ru/wp-content/uploads/2017/06/cropped-logo_bg_white-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.inlyceum.ru/wp-content/uploads/2017/06/cropped-logo_bg_white-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.inlyceum.ru/wp-content/uploads/2017/06/cropped-logo_bg_white-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.inlyceum.ru/wp-content/uploads/2017/06/cropped-logo_bg_white-270x270.png" />
+
+<!-- Styles cached and displayed inline for speed. Generated by http://stylesplugin.com -->
+<style type="text/css" id="styles-plugin-css">
+
+</style>
+	</head>
+	<body class="archive date styles" >
+
+<div class="header-img">
+	<div class="header-content">
+			</div>
+	<img class="img-responsive" src="https://www.inlyceum.ru/wp-content/uploads/2017/06/cropped-headerimg.png" height="200" width="1600" alt="" />
+</div>
+<!--Logo & Menu Section-->	
+<nav class="navbar navbar-default">
+	<div class="container">
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+								<h1><a class="navbar-brand" href="https://www.inlyceum.ru/" title="Appointment">
+									<img class="img-responsive" src="http://www.inlyceum.ru/wp-content/uploads/2017/06/11111logo.png" style="height:60px; width:px;"/>
+									</a></h1>
+					
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Показать/Скрыть навигацию</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+		
+		
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul id="menu-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%be%d0%b5" class="nav navbar-nav navbar-right"><li id="menu-item-3002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3002"><a href="http://www.inlyceum.ru/">Главная</a></li>
+<li id="menu-item-3065" class="menu-item menu-item-type-taxonomy menu-item-object-vivod menu-item-3065"><a href="https://www.inlyceum.ru/vivod/%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d0%b8/">Новости</a></li>
+<li id="menu-item-3063" class="menu-item menu-item-type-taxonomy menu-item-object-vivod menu-item-3063"><a href="https://www.inlyceum.ru/vivod/%d0%be%d0%bf%d1%80%d0%be%d1%81/">Опросы</a></li>
+<li id="menu-item-3001" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3001"><a href="http://www.inlyceum.ru/wp-admin/">Личный кабинет</a></li>
+</ul>		</div><!-- /.navbar-collapse -->
+	</div><!-- /.container-fluid -->
+</nav>	
+<!--/Logo & Menu Section-->	
+<div class="clearfix"></div><div class="page-title-section">		
+	<div class="overlay">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="page-title"><h1>
+                Архив за год 2018        	
+                <div class="qua-separator" id=""></div>
+		</h1></div>
+				</div>
+				<div class="col-md-6">
+					<ul class="page-breadcrumb">
+						<li><a href="https://www.inlyceum.ru">Home</a> &nbsp &#47; &nbsp<li class="active">2018</li></li>					</ul>
+					
+				</div>
+			</div>
+		</div>	
+	</div>
+</div>
+<!-- /Page Title Section ---->
+<div class="page-builder">
+	<div class="container">
+		<div class="row">
+		
+			<!-- Blog Area -->
+			<div class="col-md-8" >
+							<div id="post-3075" class="blog-lg-area-left post-3075 post type-post status-publish format-standard hentry category-1 vivod-61">
+	<div class="media">						
+		    <!--show date of post-->
+		<aside class="blog-post-date-area">
+			<div class="date">23 <div class="month-year">Янв,2018</div></div>
+			<div class="comment"><a href="https://www.inlyceum.ru/2018/01/%d1%8f-%d1%83%d0%bc%d0%b5%d1%8e-%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%b7%d0%b0%d0%bf%d0%b8%d1%81%d1%8c/"><i class="fa fa-comments"></i>0</a></div>
+		</aside>
+				<div class="media-body">
+						<div class="blog-post-lg">
+				<a href="https://www.inlyceum.ru/author/admin_test/"><img alt='' src='https://secure.gravatar.com/avatar/3cfc7ff6db924ddf6046efcd86a2e710?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/3cfc7ff6db924ddf6046efcd86a2e710?s=80&#038;d=mm&#038;r=g 2x' class='img-responsive img-circle avatar-40 photo' height='40' width='40' /></a>
+				Автор:<a href="https://www.inlyceum.ru/author/admin_test/">admin_test</a>
+							</div>
+							<h3><a href="https://www.inlyceum.ru/2018/01/%d1%8f-%d1%83%d0%bc%d0%b5%d1%8e-%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%b7%d0%b0%d0%bf%d0%b8%d1%81%d1%8c/">Я умею делать запись</a></h3>
+				<p>классс!!!!</p>
+		</div>
+	 </div>
+</div>								<div id="post-2964" class="blog-lg-area-left post-2964 post type-post status-publish format-standard hentry category-polls">
+	<div class="media">						
+		    <!--show date of post-->
+		<aside class="blog-post-date-area">
+			<div class="date">23 <div class="month-year">Янв,2018</div></div>
+			<div class="comment"><a href="https://www.inlyceum.ru/2018/01/%d0%be%d0%bf%d1%80%d0%be%d1%81/"><i class="fa fa-comments"></i>0</a></div>
+		</aside>
+				<div class="media-body">
+						<div class="blog-post-lg">
+				<a href="https://www.inlyceum.ru/author/admin/"><img alt='' src='https://secure.gravatar.com/avatar/d5a66d31b3d6670ec1943dc940664f29?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d5a66d31b3d6670ec1943dc940664f29?s=80&#038;d=mm&#038;r=g 2x' class='img-responsive img-circle avatar-40 photo' height='40' width='40' /></a>
+				Автор:<a href="https://www.inlyceum.ru/author/admin/">Андрей Волох</a>
+							</div>
+							<h3><a href="https://www.inlyceum.ru/2018/01/%d0%be%d0%bf%d1%80%d0%be%d1%81/">Опрос</a></h3>
+				<form id="torro-form-2963" class="torro-form" action="/2018/" method="post" enctype="multipart/form-data" novalidate>
+	<input type="hidden" name="_wpnonce" value="658e3edfe5"><input type="hidden" name="torro_form_id" value="2963">
+			<input type="hidden" name="torro_response[container_id]" value="10">
+	<h2 class="container-title">Page 1</h2>
+
+	<div class="torro-element torro-element-onechoice">
+	
+	<fieldset role="radiogroup" aria-required="true">
+		<legend>
+			Опрос							<span class="required">*</span>
+					</legend>
+
+		<div>
+				<div class="torro_element_radio">
+				<input type="radio" id="torro_form_element_13-0" name="torro_response[containers][10][elements][13]" class="torro-form-input" value="1" aria-describedby="torro_form_element_13-description">
+		<label for="torro_form_element_13-0">
+			1		</label>
+	</div>
+	<div class="torro_element_radio">
+				<input type="radio" id="torro_form_element_13-1" name="torro_response[containers][10][elements][13]" class="torro-form-input" value="2" aria-describedby="torro_form_element_13-description">
+		<label for="torro_form_element_13-1">
+			2		</label>
+	</div>
+	<div class="torro_element_radio">
+				<input type="radio" id="torro_form_element_13-2" name="torro_response[containers][10][elements][13]" class="torro-form-input" value="3" aria-describedby="torro_form_element_13-description">
+		<label for="torro_form_element_13-2">
+			3		</label>
+	</div>
+
+			
+					</div>
+	</fieldset>
+
+	</div>
+	<div class="torro-element torro-element-multiplechoice">
+	
+	<fieldset role="group" aria-required="true">
+		<legend>
+			Тест							<span class="required">*</span>
+					</legend>
+
+		<div>
+				<div class="torro_element_checkbox">
+				<input type="checkbox" id="torro_form_element_14-0" name="torro_response[containers][10][elements][14][]" class="torro-form-input" value="1" aria-describedby="torro_form_element_14-description">
+		<label for="torro_form_element_14-0">
+			1		</label>
+	</div>
+	<div class="torro_element_checkbox">
+				<input type="checkbox" id="torro_form_element_14-1" name="torro_response[containers][10][elements][14][]" class="torro-form-input" value="3" aria-describedby="torro_form_element_14-description">
+		<label for="torro_form_element_14-1">
+			3		</label>
+	</div>
+	<div class="torro_element_checkbox">
+				<input type="checkbox" id="torro_form_element_14-2" name="torro_response[containers][10][elements][14][]" class="torro-form-input" value="2" aria-describedby="torro_form_element_14-description">
+		<label for="torro_form_element_14-2">
+			2		</label>
+	</div>
+
+
+			
+					</div>
+	</fieldset>
+
+	</div>
+	
+	
+	
+					<input type="submit" name="torro_submission" value="Отправить">
+			</form>
+
+		</div>
+	 </div>
+</div>								<div id="post-2944" class="blog-lg-area-left post-2944 post type-post status-publish format-standard hentry category-polls">
+	<div class="media">						
+		    <!--show date of post-->
+		<aside class="blog-post-date-area">
+			<div class="date">22 <div class="month-year">Янв,2018</div></div>
+			<div class="comment"><a href="https://www.inlyceum.ru/2018/01/%d1%82%d0%b5%d1%81%d1%82/"><i class="fa fa-comments"></i>0</a></div>
+		</aside>
+				<div class="media-body">
+						<div class="blog-post-lg">
+				<a href="https://www.inlyceum.ru/author/123/"><img alt='' src='https://secure.gravatar.com/avatar/e8ec98ba356c58b8d0e5ba874e9f1efa?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e8ec98ba356c58b8d0e5ba874e9f1efa?s=80&#038;d=mm&#038;r=g 2x' class='img-responsive img-circle avatar-40 photo' height='40' width='40' /></a>
+				Автор:<a href="https://www.inlyceum.ru/author/123/">123</a>
+							</div>
+							<h3><a href="https://www.inlyceum.ru/2018/01/%d1%82%d0%b5%d1%81%d1%82/">тест</a></h3>
+				<form id="torro-form-2933" class="torro-form" action="/2018/" method="post" enctype="multipart/form-data" novalidate>
+	<input type="hidden" name="_wpnonce" value="22ebba8c36"><input type="hidden" name="torro_form_id" value="2933">
+			<input type="hidden" name="torro_response[container_id]" value="7">
+	<h2 class="container-title">Page 1</h2>
+
+	<div class="torro-element torro-element-content">
+	
+	<p>Привет пройди мой вопрос пожалуйста</p>
+
+	</div>
+	<div class="torro-element torro-element-multiplechoice">
+	
+	<fieldset role="group" aria-required="true">
+		<legend>
+			Выбери число от 1-5							<span class="required">*</span>
+					</legend>
+
+		<div>
+				<div class="torro_element_checkbox">
+				<input type="checkbox" id="torro_form_element_8-0" name="torro_response[containers][7][elements][8][]" class="torro-form-input" value="1" aria-describedby="torro_form_element_8-description">
+		<label for="torro_form_element_8-0">
+			1		</label>
+	</div>
+	<div class="torro_element_checkbox">
+				<input type="checkbox" id="torro_form_element_8-1" name="torro_response[containers][7][elements][8][]" class="torro-form-input" value="2" aria-describedby="torro_form_element_8-description">
+		<label for="torro_form_element_8-1">
+			2		</label>
+	</div>
+	<div class="torro_element_checkbox">
+				<input type="checkbox" id="torro_form_element_8-2" name="torro_response[containers][7][elements][8][]" class="torro-form-input" value="3" aria-describedby="torro_form_element_8-description">
+		<label for="torro_form_element_8-2">
+			3		</label>
+	</div>
+	<div class="torro_element_checkbox">
+				<input type="checkbox" id="torro_form_element_8-3" name="torro_response[containers][7][elements][8][]" class="torro-form-input" value="4" aria-describedby="torro_form_element_8-description">
+		<label for="torro_form_element_8-3">
+			4		</label>
+	</div>
+	<div class="torro_element_checkbox">
+				<input type="checkbox" id="torro_form_element_8-4" name="torro_response[containers][7][elements][8][]" class="torro-form-input" value="5" aria-describedby="torro_form_element_8-description">
+		<label for="torro_form_element_8-4">
+			5		</label>
+	</div>
+
+
+			
+					</div>
+	</fieldset>
+
+	</div>
+	
+	
+			<input type="submit" name="torro_submission" value="Следующий шаг">
+	
+	</form>
+
+		</div>
+	 </div>
+</div>								<div id="post-2939" class="blog-lg-area-left post-2939 post type-post status-publish format-standard hentry category-polls">
+	<div class="media">						
+		    <!--show date of post-->
+		<aside class="blog-post-date-area">
+			<div class="date">22 <div class="month-year">Янв,2018</div></div>
+			<div class="comment"><a href="https://www.inlyceum.ru/2018/01/2939/"><i class="fa fa-comments"></i>0</a></div>
+		</aside>
+				<div class="media-body">
+						<div class="blog-post-lg">
+				<a href="https://www.inlyceum.ru/author/admin/"><img alt='' src='https://secure.gravatar.com/avatar/d5a66d31b3d6670ec1943dc940664f29?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d5a66d31b3d6670ec1943dc940664f29?s=80&#038;d=mm&#038;r=g 2x' class='img-responsive img-circle avatar-40 photo' height='40' width='40' /></a>
+				Автор:<a href="https://www.inlyceum.ru/author/admin/">Андрей Волох</a>
+							</div>
+							<h3><a href="https://www.inlyceum.ru/2018/01/2939/"></a></h3>
+				<p>[wpforms id=&#187;2938&#8243;]</p>
+		</div>
+	 </div>
+</div>								<div id="post-2935" class="blog-lg-area-left post-2935 post type-post status-publish format-standard hentry category-polls">
+	<div class="media">						
+		    <!--show date of post-->
+		<aside class="blog-post-date-area">
+			<div class="date">22 <div class="month-year">Янв,2018</div></div>
+			<div class="comment"><a href="https://www.inlyceum.ru/2018/01/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82/"><i class="fa fa-comments"></i>0</a></div>
+		</aside>
+				<div class="media-body">
+						<div class="blog-post-lg">
+				<a href="https://www.inlyceum.ru/author/admin/"><img alt='' src='https://secure.gravatar.com/avatar/d5a66d31b3d6670ec1943dc940664f29?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d5a66d31b3d6670ec1943dc940664f29?s=80&#038;d=mm&#038;r=g 2x' class='img-responsive img-circle avatar-40 photo' height='40' width='40' /></a>
+				Автор:<a href="https://www.inlyceum.ru/author/admin/">Андрей Волох</a>
+							</div>
+							<h3><a href="https://www.inlyceum.ru/2018/01/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82/">Привет</a></h3>
+				<p>Ты где?</p>
+		</div>
+	 </div>
+</div>							</div>
+			<!--Sidebar Area-->
+			<div class="col-md-4">
+				<div class="sidebar-section-right">
+	<div class="sidebar-widget"><form action="https://www.inlyceum.ru/" method="get">
+<input type="text" class="search_widget_input"  name="s" id="s" placeholder="Поиск" />
+</form></div><div class="sidebar-widget"><a href="https://school.hse.ru/" target="_blank"><img width="265" height="174" src="https://www.inlyceum.ru/wp-content/uploads/2017/03/lyc.png" class="image wp-image-2565 aligncenter attachment-0x348 size-0x348" alt="" style="max-width: 100%; height: auto;" /></a></div>		<div class="sidebar-widget">		<div class="sidebar-widget-title"><h3>Свежие записи</h3></div>		<ul>
+											<li>
+					<a href="https://www.inlyceum.ru/2018/01/%d1%8f-%d1%83%d0%bc%d0%b5%d1%8e-%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%b7%d0%b0%d0%bf%d0%b8%d1%81%d1%8c/">Я умею делать запись</a>
+									</li>
+											<li>
+					<a href="https://www.inlyceum.ru/2018/01/%d0%be%d0%bf%d1%80%d0%be%d1%81/">Опрос</a>
+									</li>
+											<li>
+					<a href="https://www.inlyceum.ru/2018/01/%d1%82%d0%b5%d1%81%d1%82/">тест</a>
+									</li>
+											<li>
+					<a href="https://www.inlyceum.ru/2018/01/2939/">(без названия)</a>
+									</li>
+											<li>
+					<a href="https://www.inlyceum.ru/2018/01/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82/">Привет</a>
+									</li>
+					</ul>
+		</div><div class="sidebar-widget"><div class="sidebar-widget-title"><h3>Архивы</h3></div>		<ul>
+			<li><a href='https://www.inlyceum.ru/2018/01/'>Январь 2018</a></li>
+	<li><a href='https://www.inlyceum.ru/2017/06/'>Июнь 2017</a></li>
+	<li><a href='https://www.inlyceum.ru/2017/03/'>Март 2017</a></li>
+	<li><a href='https://www.inlyceum.ru/2017/02/'>Февраль 2017</a></li>
+	<li><a href='https://www.inlyceum.ru/2017/01/'>Январь 2017</a></li>
+	<li><a href='https://www.inlyceum.ru/2016/12/'>Декабрь 2016</a></li>
+	<li><a href='https://www.inlyceum.ru/2016/11/'>Ноябрь 2016</a></li>
+		</ul>
+		</div></div>
+			</div>
+			<!--Sidebar Area-->
+		</div>
+	</div>
+</div>
+<!-- Footer Section -->
+	
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</div>
+<!-- /Footer Section -->
+<div class="clearfix"></div>
+<!-- Footer Copyright Section -->
+<div class="footer-copyright-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8">
+				<div class="footer-copyright">
+										InLyceum 2016-2018					</a>
+									</div>
+			</div>
+						</div>
+	</div>
+</div>
+<!-- /Footer Copyright Section -->
+<!--Scroll To Top--> 
+<a href="#" class="hc_scrollup"><i class="fa fa-chevron-up"></i></a>
+<!--/Scroll To Top--> 
+
+
+
+<script type="text/javascript" src="https://www.inlyceum.ru/wp-content/cache/minify/be533.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var edsanimate_options = {"offset":"75","hide_hz_scrollbar":"1","hide_vl_scrollbar":"0"};
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="https://www.inlyceum.ru/wp-content/cache/minify/2771b.js"></script>
+
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced 
+Minified using disk
+
+Served from: www.inlyceum.ru @ 2018-01-25 10:39:04 by W3 Total Cache
+-->

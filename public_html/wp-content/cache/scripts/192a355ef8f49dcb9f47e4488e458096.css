@@ -1,0 +1,5 @@
+/*
+Cache: jetpack-carousel-ie8fix
+*/
+/* jetpack-carousel-ie8fix: (http://www.inlyceum.ru/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel-ie8fix.css) */
+.jp-carousel .jp-carousel-slide{ display:none!important; }.jp-carousel{ text-align:center!important; width:100%!important; }.jp-carousel .selected{ margin:0 auto; display:block!important; width:auto; position:relative!important; }
